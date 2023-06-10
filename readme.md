@@ -1,1 +1,1 @@
-# browser-apo
+# House Price prediction using linear regression algorithms: Ordinal Least Square (OLS) algorithm, Ridge regression algorithm, Lasso regression algorithm, Bayesian regression algorithm, and lastly Elastic Net regression algorithm. 
